@@ -1,0 +1,22 @@
+{
+  "name": "blague-npm",
+  "version": "1.0.4",
+  "description": "Un nouveau module de blagues français/english via npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "htpps://github.com/AYnonyme971/blague-npm"
+  },
+  "keywords": [
+    "blague",
+    "joke",
+    "français",
+    "english",
+    "bilingue"
+  ],
+  "author": "AYnonyme (#9350)",
+  "license": "MIT"
+}
